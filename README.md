@@ -1,8 +1,6 @@
 # Python-coding
 # Python Tools
 
-![Made with Python](http://forthebadge.com/images/badges/made-with-python.svg)
-
 A collection of [Python](https://www.python.org) tools, scripts and utilities to make your life easier.
 
 ## Tools
