@@ -135,10 +135,3 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 1. [zip_file.py](tools/zip_file.py) - Create a zip file.
 
-## Contributing
-
-Any help in testing, development, documentation and other tasks is highly appreciated and useful to the project. For more details, read our [Contributing Guide](CONTRIBUTING.md) to see how you can help.
-
-## LICENSE
-
-Python Tools is licensed under the terms of the MIT License (see the file [LICENSE](LICENSE)).
