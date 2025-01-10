@@ -3,8 +3,6 @@
 
 A collection of [Python](https://www.python.org) tools, scripts and utilities to make your life easier.
 
-<img src=".tools/python _coding.jas">
-
 ## Tools
 
 1. [add_scheme.py](tools/add_scheme.py) - Add scheme to URL if not present.
