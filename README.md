@@ -3,7 +3,7 @@
 
 A collection of [Python](https://www.python.org) tools, scripts and utilities to make your life easier.
 
-<input type="python _coding.jas">
+<img src="python _coding.jas">
 
 ## Tools
 
